@@ -1,3 +1,3 @@
 # jogo-da-velha
 
-my first code, write during the first semester on the college
+my first code, writed during the first semester on the college
