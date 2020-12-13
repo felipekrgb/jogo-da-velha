@@ -1,3 +1,3 @@
 # jogo-da-velha
 
-my first code, writed during the first semester on the college
+Meu primeiro programa, feito durante o primeiro semestre na faculdade.
