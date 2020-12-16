@@ -1,4 +1,4 @@
 # jogo-da-velha
 
-Meu primeiro programa feito em Java.
-Feito durante o primeiro semestre da faculdade.
+Meu primeiro programa.
+Desenvolvido em Java e feito durante o primeiro semestre da faculdade.
